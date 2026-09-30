@@ -19,7 +19,7 @@ columns_name_to_rename = {
     'coord.lat': 'latitude',
     'main.temp': 'temperature',
     'main.feels_like': 'feels_like',
-    'main.temp_min': 'temp_smin',
+    'main.temp_min': 'temp_min',
     'main.temp_max': 'temp_max',
     'main.pressure': 'pressure',
     'main.humidity': 'humidity',
